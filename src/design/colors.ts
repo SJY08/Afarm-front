@@ -16,7 +16,7 @@ export const Colors = {
     CriticalBackground: "#ffe6d8",
     ModalBackground: "#00000060",
     Blue: "#1263FF",
-    Green: "#33db04",
+    Green500: "#009C15",
 } as const
 
 export type colorsKeyOfType = keyof typeof Colors
